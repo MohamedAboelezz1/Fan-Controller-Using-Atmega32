@@ -1,5 +1,5 @@
 # Fan-Controller-Using-Atmega32
-Build-Driver for controlling using peripherals DIO, ADC and PWM.
+Build-Driver for Fan controlling using peripherals DIO, ADC and PWM.
 Implement the following Fan Controller system with the specifications listed below:
 1. The aim of this project is to design a temperature-controlled fan using ATmega32
 microcontroller, in which the fan is automatically turned ON or OFF according to the
